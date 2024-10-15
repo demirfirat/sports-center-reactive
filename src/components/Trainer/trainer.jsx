@@ -1,7 +1,7 @@
 import "./trainer.css";
-import Trainer1 from "photos/trainer1.jpg";
-import Trainer2 from "photos/trainer2.jpg";
-import Trainer3 from "photos/trainer3.jpg";
+import Trainer1 from "/photos/trainer1.jpg";
+import Trainer2 from "/photos/trainer2.jpg";
+import Trainer3 from "/photos/trainer3.jpg";
 
 const Trainer = () => {
 
