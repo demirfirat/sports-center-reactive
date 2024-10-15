@@ -1,8 +1,26 @@
-# React + Vite
+# Sports Center
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Project Overview
+Sports Center is a website designed to provide users with detailed information about various fitness classes such as Yoga, Solo, Group and Stretching. The site also offers insights into personal trainers, products for sale, and includes a contact form for users to reach out. This platform is intended to make fitness information and services more accessible.
+## View Demo
+[Live Demo](https://sports-center-reactive.vercel.app/)
 
-Currently, two official plugins are available:
+## Features
+- **Class Information**: Dedicated sections for Yoga, Solo, and Stretching classes, each with schedules and class details.
+- **Personal Trainers**: Information about professional trainers available at the center.
+- **Product Sales**: A section dedicated to fitness products available for purchase.
+- **Contact Form**: A fully functional contact form allowing users to send messages directly through the website.
+- **BMI Calculator**: BMI (Body Mass Index) Calculator, which helps users calculate their BMI based on their height and weight. It visually displays the BMI result on a graphical chart using colors to indicate different weight categories (Underweight, Normal, Overweight, Obese, Extremely Obese).
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Technologies Used
+- **CSS3**: To style the website and create a responsive design.
+- **Vite.js**: To add interactivity, including dynamic class selection and form validation. In addition to this reduce the code majority.
+- **Bootstrap**: Used for layout and responsive design.
+- **Google Maps API**: Integrated to display the location of the sports center.
+  
+## How to Use
+1. Navigate through the available classes (Yoga, Solo, Stretching, Group) to learn about each class.
+2. Browse the product section to find fitness-related items available for purchase.
+3. Contact the center via the form available on the Contact Us page.
+4. Check personal trainer profiles to choose your ideal trainer.
+5. Visual indicators (arrow and color coding) based on the BMI result.
