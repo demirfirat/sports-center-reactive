@@ -1,4 +1,5 @@
 # Sports Center
+https://github.com/user-attachments/assets/4e2275cf-2469-4b3e-8832-93a5cfe4eb6d
 
 ## Project Overview
 Sports Center is a website designed to provide users with detailed information about various fitness classes such as Yoga, Solo, Group and Stretching. The site also offers insights into personal trainers, products for sale, and includes a contact form for users to reach out. This platform is intended to make fitness information and services more accessible.
