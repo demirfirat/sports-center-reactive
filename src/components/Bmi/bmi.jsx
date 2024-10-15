@@ -79,7 +79,7 @@ const BmiCalculator = () => {
         </div>
         <div className="bmi-index">
           <h3>Your BMI: {bmi}</h3>
-          <img src={bmi} alt="BMI Index" className="bmi-img" />
+          <img src={Bmi} alt="BMI Index" className="bmi-img" />
           {percentage !== null && (
             <div className="arrow-up" style={{ left: `${percentage}%` }}></div>
           )}
