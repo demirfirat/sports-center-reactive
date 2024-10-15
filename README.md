@@ -25,3 +25,9 @@ Sports Centre is a website designed to provide users with detailed information a
 3. Contact the center via the form available on the Contact Us page.
 4. Check personal trainer profiles to choose your ideal trainer.
 5. Visual indicators (arrow and color coding) based on the BMI result.
+
+## Push the project
+1. Clone the project or download the files.
+2. Open a terminal in the project directory and run the **npm install** command.
+3. Start the project using the **npm run dev** command.
+4. Go to **http://localhost:5173** in your browser.
